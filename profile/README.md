@@ -1,12 +1,3 @@
-## Hi there 👋
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+We are a side-project collective building creative products. </br>
+We design and build modular, production-ready applications — from React & React Native hybrid apps to scalable backends with NestJS. </br>
+Our team covers the full stack: Web, Mobile, Backend, CI/CD, DevOps, Cloud, and even Hardware — enabling fast experimentation and real-world deployment.
